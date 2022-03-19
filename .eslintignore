@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-ts
+.clinic
+.git
+.gitignore
+webpack.config.js
+ecosystem.config.json
+craco.config.js
